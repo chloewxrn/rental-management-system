@@ -1,10 +1,20 @@
 # rental-management-system
 Our Cyberjaya online rental management system is created for all users. Before logging in, the user has to create an account first. They will need to choose whether they want to register as tenant, property owner or property agent.
 
-Ways to Run in BlueJ
-Folder Name: TT2V_Group4_DoReMiFa
+Ways to Run in CMD
 
 * If you press logout, the program need to load a while to pop up the login window.
+
+Java JDK Version : openjdk version "11.0.12"
+Folder Name: TT2V_Group4_DoReMiFa
+
+1. At the folder which named as "src_code", press SHIFT and right click, open CommandPrompt / Windows Powershell
+
+2. Type " javac MainGUI.java" and press Enter.
+
+3. Type " java MainGUI " and press Enter.
+
+4. Our program will run successfully. 
 -----------------------------------------------------------------------------------------------------------------------------
 
 Admin
