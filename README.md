@@ -6,7 +6,6 @@ Ways to Run in CMD
 * If you press logout, the program need to load a while to pop up the login window.
 
 Java JDK Version : openjdk version "11.0.12"
-Folder Name: TT2V_Group4_DoReMiFa
 
 1. At the folder which named as "src_code", press SHIFT and right click, open CommandPrompt / Windows Powershell
 
